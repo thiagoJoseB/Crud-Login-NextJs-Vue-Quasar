@@ -1,7 +1,6 @@
 create database BD_CRUD_LOGIN;
  USE BD_CRUD_LOGIN;
- 
- drop table usuarios;
+
  
 create table Usuarios(
 id int not null auto_increment primary key,
